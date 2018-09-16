@@ -1,0 +1,28 @@
+.center-menu{
+   
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 30px 0 30px 0;
+}
+
+body{
+    background-image: url('Images/logo_edited.png');
+    padding-top: 4%;
+    
+}
+.carousel slide{
+
+        width: 100%;
+}
+.content{
+    padding-top: 5%;
+}
+
+ul{
+    list-style: none;
+}
+imagebanner{
+    height: 30vw;
+    width: 100%;
+        
+}
